@@ -1,0 +1,35 @@
+.logic-monoscript-regular {
+    font-family: "logic-monoscript", mono;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logic-monoscript-bold {
+    font-family: "logic-monoscript", mono;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.logic-monospace-regular {
+    font-family: "logic-monospace", mono;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.logic-monospace-italic {
+    font-family: "logic-monospace", mono;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.logic-monospace-bold {
+    font-family: "logic-monospace", mono;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.logic-monospace-bold-italic {
+    font-family: "logic-monospace", mono;
+    font-weight: 700;
+    font-style: italic;
+}
