@@ -36,6 +36,8 @@ My only express goal in publishing this site is to encourage others to keep the 
 
 *Timothy Rezendes, May 2024*
 
+---
+
 This website, its code, and its content—©2024 by [Timothy Rezendes][footer-1] and [232 Software][footer-2]—are licensed under [CC BY-SA 4.0][footer-3]
 
 [<img src="https://img.shields.io/github/license/TRezendes/LightWeb?style=flat&logo=creativecommons&logoColor=white&logoSize=auto&color=d7ac00" alt="shields.io CC-BY-SA-4.0 license badge" />][footer-4]
