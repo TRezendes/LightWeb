@@ -1,5 +1,20 @@
 # 🔆 The Light Web 🔆
 
+## Code and content for <https://www.the-light-web.net>
+
+- [What is the Light Web?](#what-is-the-light-web)
+  - [Light as in Sunlight](#light-as-in-sunlight)
+  - [Light as in Light as a Feather](#light-as-in-light-as-a-feather)
+  - [Light as in Lighthearted](#light-as-in-lighthearted)
+- [What isn't the Light Web?](#what-isnt-the-light-web)
+- [Conclusion](#conclusion)
+
+## 
+
+<br />
+
+
+
 ## What is the Light Web?
 
 The Light Web is a philosophy, a synthesis of ideas that have resonated with me recently, aimed at creating websites that live up to the ideals of the early web. The early years of the World Wide Web were filled with whimsy and optimism. There was so much potential in this new medium, and so many people excited to explore that potential. But halfway through the third decade of the 21st Century, the web has suffered from the same late-stage capitalist degradation that so much of society has. The Light Web is a movement to recapture the idealistic, humanistic promise of the web in its infancy.
